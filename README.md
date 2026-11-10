@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Flutter+(BLoC)+%26+Native+Android+Architectures;Full-Stack+Engineering+(NestJS+%E2%80%A2+FastAPI+%E2%80%A2+Next.js);Multimodal+RAG+%26+Applied+AI+Integration+(LangChain+%E2%80%A2+Pinecone);Hedera+Hashgraph+DLT+%26+Decentralized+Workflows)](https://git.io/typing-svg)
 
-📍 **Tunis, Tunisia** · 📧 [negzaouioussama15@gmail.com](mailto:negzaouioussama15@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/oussama-negzaoui-6632431bb/) · 🐙 [GitHub](https://github.com/negzaoui16)
+📍 **Tunis, Tunisia** · 📧 [negzaouioussama15@gmail.com](mailto:negzaouioussama15@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/oussama-negzaoui-6632431bb/) · 🐙 [GitHub](https://github.com/negzaoui16) · 🌐 [Live Portfolio](https://portfolio-negzaoui.vercel.app)
 
 </div>
 
