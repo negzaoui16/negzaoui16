@@ -99,8 +99,8 @@ These four systems are the clearest public snapshots of my cross-platform mobile
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=negzaoui16&theme=tokyonight&hide_border=true" alt="Oussama's GitHub Streak" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=negzaoui16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=negzaoui16&theme=tokyonight&hide_border=true" alt="Oussama's GitHub Streak" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=negzaoui16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
 </div>
 
